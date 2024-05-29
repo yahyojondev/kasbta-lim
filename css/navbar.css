@@ -8,6 +8,16 @@
 .carousel__img {
   -o-object-fit: cover;
      object-fit: cover;
+  height: 600px !important;
+}
+
+.carousel__wrapper {
+  height: 600px;
+}
+
+.google__formlink {
+  text-decoration: none;
+  color: #000;
 }
 
 .students__img {

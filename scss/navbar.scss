@@ -5,6 +5,14 @@
 }
 .carousel__img {
   object-fit: cover;
+  height: 600px !important;
+}
+.carousel__wrapper {
+  height: 600px;
+}
+.google__formlink {
+  text-decoration: none;
+  color: #000;
 }
 .students__img {
   width: 100% !important;
